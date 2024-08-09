@@ -1,0 +1,15 @@
+D:\personal\git\Demo\dotnetProject\BusinessLayer\bin\Debug\net8.0\BusinessLayer.deps.json
+D:\personal\git\Demo\dotnetProject\BusinessLayer\bin\Debug\net8.0\BusinessLayer.dll
+D:\personal\git\Demo\dotnetProject\BusinessLayer\bin\Debug\net8.0\BusinessLayer.pdb
+D:\personal\git\Demo\dotnetProject\BusinessLayer\obj\Debug\net8.0\BusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\personal\git\Demo\dotnetProject\BusinessLayer\obj\Debug\net8.0\BusinessLayer.AssemblyInfoInputs.cache
+D:\personal\git\Demo\dotnetProject\BusinessLayer\obj\Debug\net8.0\BusinessLayer.AssemblyInfo.cs
+D:\personal\git\Demo\dotnetProject\BusinessLayer\obj\Debug\net8.0\BusinessLayer.csproj.CoreCompileInputs.cache
+D:\personal\git\Demo\dotnetProject\BusinessLayer\obj\Debug\net8.0\BusinessLayer.dll
+D:\personal\git\Demo\dotnetProject\BusinessLayer\obj\Debug\net8.0\refint\BusinessLayer.dll
+D:\personal\git\Demo\dotnetProject\BusinessLayer\obj\Debug\net8.0\BusinessLayer.pdb
+D:\personal\git\Demo\dotnetProject\BusinessLayer\obj\Debug\net8.0\ref\BusinessLayer.dll
+d:\personal\git\Demo\dotnetProject\BusinessLayer\bin\Debug\net8.0\DataLayer.dll
+d:\personal\git\Demo\dotnetProject\BusinessLayer\bin\Debug\net8.0\DataLayer.pdb
+d:\personal\git\Demo\dotnetProject\BusinessLayer\obj\Debug\net8.0\BusinessLayer.csproj.AssemblyReference.cache
+d:\personal\git\Demo\dotnetProject\BusinessLayer\obj\Debug\net8.0\Business.EA331CBA.Up2Date

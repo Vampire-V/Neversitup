@@ -1,0 +1,12 @@
+D:\personal\git\Demo\dotnetProject\DataLayer\bin\Debug\net8.0\DataLayer.deps.json
+d:\personal\git\Demo\dotnetProject\DataLayer\bin\Debug\net8.0\DataLayer.dll
+d:\personal\git\Demo\dotnetProject\DataLayer\bin\Debug\net8.0\DataLayer.pdb
+d:\personal\git\Demo\dotnetProject\DataLayer\obj\Debug\net8.0\DataLayer.csproj.AssemblyReference.cache
+d:\personal\git\Demo\dotnetProject\DataLayer\obj\Debug\net8.0\DataLayer.GeneratedMSBuildEditorConfig.editorconfig
+d:\personal\git\Demo\dotnetProject\DataLayer\obj\Debug\net8.0\DataLayer.AssemblyInfoInputs.cache
+d:\personal\git\Demo\dotnetProject\DataLayer\obj\Debug\net8.0\DataLayer.AssemblyInfo.cs
+d:\personal\git\Demo\dotnetProject\DataLayer\obj\Debug\net8.0\DataLayer.csproj.CoreCompileInputs.cache
+d:\personal\git\Demo\dotnetProject\DataLayer\obj\Debug\net8.0\DataLayer.dll
+d:\personal\git\Demo\dotnetProject\DataLayer\obj\Debug\net8.0\refint\DataLayer.dll
+d:\personal\git\Demo\dotnetProject\DataLayer\obj\Debug\net8.0\DataLayer.pdb
+D:\personal\git\Demo\dotnetProject\DataLayer\obj\Debug\net8.0\ref\DataLayer.dll
